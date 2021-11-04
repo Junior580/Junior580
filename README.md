@@ -1,4 +1,4 @@
-- Hello i'm Júnior👋
+- Hello, I'm Júnior 👋
 -  🔭 I’m currently working on foreign trade 
 - 🌱 I’m currently learning python, javascript and html.
 
