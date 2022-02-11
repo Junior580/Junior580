@@ -2,7 +2,7 @@
 -  🔭 I’m currently working on foreign trade 
 - 🌱 I’m currently learning html, css, javascript and python.
 
-div>
+<div>
     <a href="https://github.com/Junior580">
       <img height="180em"
         src="https://github-readme-stats.vercel.app/api?username=Junior580&show_icons=true&theme=dracula" />
