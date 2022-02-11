@@ -2,10 +2,12 @@
 -  🔭 I’m currently working on foreign trade 
 - 🌱 I’m currently learning html, css, javascript and python.
 
+
+<div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junior580&show_icons=true&theme=onedark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junior580&layout=compact)](https://github.com/Junior580/github-readme-stats)
-
+</div>
 
 <div style="display: inline_block"><br />
     <img algin="center" alt="html5"
