@@ -7,7 +7,7 @@
       <img height="220em"
         src="https://github-readme-stats.vercel.app/api?username=Junior580&show_icons=true&theme=dracula" />
       <img height="220em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?junior580=myusername&theme=tokyonight" />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=junior580&theme=tokyonight" />
   </div>
 
 <div style="display: inline_block"><br />    
