@@ -4,7 +4,7 @@
 
 <div>
     <a href="https://github.com/Junior580">
-      <img height="180em"
+      <img height="200em"
         src="https://github-readme-stats.vercel.app/api?username=Junior580&show_icons=true&theme=dracula" />
       <img height="200em"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junior580&layout=compact)](https://github.com/Junior580/github-readme-stats" />
