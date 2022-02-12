@@ -6,8 +6,8 @@
     <a href="https://github.com/Junior580">
       <img height="220em"
         src="https://github-readme-stats.vercel.app/api?username=Junior580&show_icons=true&theme=dracula" />
-      <img height="220em"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junior580&layout=compact)](https://github.com/Junior580/github-readme-stats" />
+      <img height="180em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?junior580=Junior580&theme=tokyonight" />
   </div>
 
 <div style="display: inline_block"><br />    
