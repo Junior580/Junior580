@@ -13,8 +13,9 @@
 <div style="display: inline_block"><br />    
        <img align="center"  alt="js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width: 100%;">
     <img align="center"  alt="nodejs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="max-width: 100%;">
-    <img align="center"  alt="git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="max-width: 100%;">  
-     <img align="center"  alt="git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" style="max-width: 100%;">
+    <img align="center"  alt="ts" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="max-width: 100%;">  
+     <img align="center"  alt="docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" style="max-width: 100%;">
+    <img align="center"  alt="postgresql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" style="max-width: 100%;">
     <img align="center"  alt="git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="max-width: 100%;">  
     
 </div>
