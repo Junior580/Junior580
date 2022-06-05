@@ -1,5 +1,4 @@
 - Hello, I'm Júnior 👋
--  🔭 I’m currently working on foreign trade 
 - 🌱 I’m currently learning html, css, javascript and python.
 
 <div>
