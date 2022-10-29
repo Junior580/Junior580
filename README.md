@@ -74,10 +74,8 @@
                 width="50"
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"
                 style="max-width: 100%"
-            />
-    
-            <i class="devicon-adonisjs-original-wordmark colored"></i>
-          
+            />   
+       
            <img align="center"
             alt="adoni"
             height="40"
