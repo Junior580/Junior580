@@ -25,14 +25,6 @@
             />
             <img
                 align="center"
-                alt="js"
-                height="40"
-                width="50"
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-                style="max-width: 100%"
-            />
-            <img
-                align="center"
                 alt="nodejs"
                 height="40"
                 width="50"
@@ -73,26 +65,11 @@
             />
             <img
                 align="center"
-                alt="git"
-                height="40"
-                width="50"
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-                style="max-width: 100%"
-            />
-    <img
-                align="center"
-                alt="adoni"
+                alt="adonis"
                 height="40"
                 width="50"
                 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"
                 style="max-width: 100%"
             />
-        <img 
-                  align="center"
-                  alt="nextjs"
-                  height="40"
-                  width="50"
-                  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg"
-                  style="max-width: 100%"
-            />
+      
         </div>
