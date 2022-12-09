@@ -89,10 +89,10 @@
             />
         <img 
                   align="center"
-                  alt="nestjs"
+                  alt="nextjs"
                   height="40"
                   width="50"
-                  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"
+                  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"
                   style="max-width: 100%"
             />
         </div>
