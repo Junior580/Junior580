@@ -15,6 +15,14 @@
 
 <div style="display: inline-flex; background-color: white">
             <br />
+           <img 
+                  align="center"
+                  alt="reactjs"
+                  height="40"
+                  width="50"
+                  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"
+                  style="max-width: 100%"
+            />
             <img
                 align="center"
                 alt="js"
