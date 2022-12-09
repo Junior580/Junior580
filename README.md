@@ -52,7 +52,7 @@
                 alt="docker"
                 height="40"
                 width="50"
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"
                 style="max-width: 100%"
             />
             <img
@@ -92,7 +92,7 @@
                   alt="nextjs"
                   height="40"
                   width="50"
-                  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"
+                  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg"
                   style="max-width: 100%"
             />
         </div>
