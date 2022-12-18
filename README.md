@@ -23,6 +23,14 @@
                   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"
                   style="max-width: 100%"
             />
+         <img 
+                  align="center"
+                  alt="tailwindCSS"
+                  height="40"
+                  width="50"
+                  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"
+                  style="max-width: 100%"
+            />
             <img
                 align="center"
                 alt="nodejs"
