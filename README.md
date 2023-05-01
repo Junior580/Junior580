@@ -1,8 +1,8 @@
 <h2>
-        Olá, Eu sou o Júnior 👋
+        Olá, Eu sou o Júnior 💻
 </h2>
 <h2>
-       🌱 Atualmente estudo desenvolvimento web.
+       Atualmente estudo desenvolvimento web 🚀
 </h2>
 
 <div>
