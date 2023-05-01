@@ -2,7 +2,7 @@
         Olá, Eu sou o Júnior 👋
 </h2>
 <h2>
-       🌱 I’m currently learning html, css, javascript and python.
+       🌱 Atualmente estudo desenvolvimento web.
 </h2>
 
 <div>
