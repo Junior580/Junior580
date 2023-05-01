@@ -1,9 +1,9 @@
 <h2>
-        - Hello, I'm Júnior 👋
-    </h2>
-    <h2>
-        - 🌱 I’m currently learning html, css, javascript and python.
-    </h2>
+        Olá, Eu sou o Júnior 👋
+</h2>
+<h2>
+       🌱 I’m currently learning html, css, javascript and python.
+</h2>
 
 <div>
     <a href="https://github.com/Junior580">
@@ -12,7 +12,9 @@
       <img height="220em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=junior580&theme=tokyonight" />
   </div>
-
+<h2>
+       Tecnologias que uso no meu dia
+</h2>
 <div style="display: inline-flex; background-color: white">
             <br />
            <img 
