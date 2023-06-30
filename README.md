@@ -2,7 +2,7 @@
         Olá, Eu sou o Júnior 💻
 </h2>
 <h2>
-       Atualmente estudo desenvolvimento web 🚀
+      Desenvolvedor web 🚀
 </h2>
 
 <div>
