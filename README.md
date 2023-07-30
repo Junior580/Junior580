@@ -17,52 +17,60 @@
 </h2>
 <div style="display: inline-flex; background-color: white">
             <br />
-           <img 
-                  align="center"
-                  alt="reactjs"
-                  height="40"
-                  width="50"
-                  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"
-                  style="max-width: 100%"
-            />
-            <img
-                align="center"
-                alt="nodejs"
-                height="40"
-                width="50"
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-                style="max-width: 100%"
-            />
-            <img
-                align="center"
-                alt="ts"
-                height="40"
-                width="50"
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-                style="max-width: 100%"
-            />
-            <img
-                align="center"
-                alt="docker"
-                height="40"
-                width="50"
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"
-                style="max-width: 100%"
-            />
-            <img
-                align="center"
-                alt="postgresql"
-                height="40"
-                width="50"
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"
-                style="max-width: 100%"
-            />            
-            <img
-                align="center"
-                alt="redis"
-                height="40"
-                width="50"
-                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"
-                style="max-width: 100%"
-            />      
+           <img
+        align="center"
+        alt="reactjs"
+        height="40"
+        width="50"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"
+        style="max-width: 100%"
+      />
+      <img
+        align="center"
+        alt="ts"
+        height="40"
+        width="50"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+        style="max-width: 100%"
+      />
+      <img
+        align="center"
+        alt="nodejs"
+        height="40"
+        width="50"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+        style="max-width: 100%"
+      />
+      <img
+        align="center"
+        alt="nodejs"
+        height="40"
+        width="50"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"
+        style="max-width: 100%"
+      />
+      <img
+        align="center"
+        alt="docker"
+        height="40"
+        width="50"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"
+        style="max-width: 100%"
+      />
+      <img
+        align="center"
+        alt="postgresql"
+        height="40"
+        width="50"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"
+        style="max-width: 100%"
+      />
+      <img
+        align="center"
+        alt="redis"
+        height="40"
+        width="50"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"
+        style="max-width: 100%"
+      />
         </div>
