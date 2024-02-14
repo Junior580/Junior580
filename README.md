@@ -43,10 +43,10 @@
       />
       <img
         align="center"
-        alt="nodejs"
+        alt="nestjs"
         height="40"
         width="50"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"
         style="max-width: 100%"
       />
       <img
