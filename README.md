@@ -73,9 +73,9 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"
         style="max-width: 100%"
       />
-         <img
-        align="python"
-        alt="redis"
+        <img
+        align="center"
+        alt="python"
         height="40"
         width="50"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"
