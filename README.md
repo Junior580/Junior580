@@ -67,10 +67,18 @@
       />
       <img
         align="center"
-        alt="redis"
+        alt="mongo"
         height="40"
         width="50"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"
+        style="max-width: 100%"
+      />
+         <img
+        align="python"
+        alt="redis"
+        height="40"
+        width="50"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"
         style="max-width: 100%"
       />
         </div>
