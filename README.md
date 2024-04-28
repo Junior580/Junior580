@@ -15,6 +15,14 @@
         <br />
         <img
         align="center"
+        alt="flutter"
+        height="40"
+        width="50"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"
+        style="max-width: 100%"
+        />
+        <img
+        align="center"
         alt="reactjs"
         height="40"
         width="50"
@@ -43,14 +51,6 @@
         height="40"
         width="50"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"
-        style="max-width: 100%"
-        />
-        <img
-        align="center"
-        alt="python"
-        height="40"
-        width="50"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"
         style="max-width: 100%"
         />
         <img
