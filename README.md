@@ -16,7 +16,7 @@
 
 <h2>📩 Contact me</h2>
 
-<div align="center"> 
+<div> 
   <a href="mailto:junior.msm25@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
   </a>
