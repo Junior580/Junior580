@@ -54,7 +54,7 @@
 
 <br />
 
-<div>
+<div style="display: inline-flex; background-color: white">
     <a href="https://github.com/Junior580">
     <img height="220em"
         src="https://github-readme-stats.vercel.app/api?username=Junior580&show_icons=true&theme=tokyonight" />
