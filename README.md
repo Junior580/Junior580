@@ -1,15 +1,12 @@
-<!-- <h2>Olá, Eu sou o Júnior 💻</h2> -->
-<!-- <h2>Desenvolvedor web 🚀</h2> -->
-
 <!-- <div>
     <a href="https://github.com/Junior580">
     <img height="220em"
-        src="https://github-readme-stats.vercel.app/api?username=Junior580&show_icons=true&theme=dracula" />
+        src="https://github-readme-stats.vercel.app/api?username=Junior580&show_icons=true&theme=tokyonight" />
     <img height="220em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=junior580&theme=tokyonight" />
 </div> -->
 
-<h2>🛠️ Tecnologias que uso no meu dia</h2>
+<h2>🛠️ Languages and Tools</h2>
 
 <div style="display: inline-flex; background-color: white">
   <br />
@@ -62,4 +59,3 @@
     style="max-width: 100%"
   />
 </div>
-
