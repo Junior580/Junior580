@@ -9,6 +9,8 @@
 
 <br />
 
+<h2>⚡ Stats</h2>
+
 <div style="display: inline-flex; background-color: white">
     <a href="https://github.com/Junior580">
     <img height="220em"
