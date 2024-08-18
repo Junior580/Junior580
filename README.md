@@ -59,3 +59,11 @@
     style="max-width: 100%"
   />
 </div>
+
+ <div>
+    <a href="https://github.com/Junior580">
+    <img height="220em"
+        src="https://github-readme-stats.vercel.app/api?username=Junior580&show_icons=true&theme=tokyonight" />
+    <img height="220em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=junior580&theme=tokyonight" />
+</div>
