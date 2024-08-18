@@ -4,10 +4,10 @@
   <br />
   <img
     align="center"
-    alt="ubuntu"
+    alt="linux"
     height="40"
     width="50"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
     style="max-width: 100%"
   />
   <img
