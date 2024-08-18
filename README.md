@@ -1,13 +1,14 @@
-<h2>Olá, Eu sou o Júnior 💻</h2>
-<h2>Desenvolvedor web 🚀</h2>
+<!-- <h2>Olá, Eu sou o Júnior 💻</h2> -->
+<!-- <h2>Desenvolvedor web 🚀</h2> -->
 
-<div>
+<!-- <div>
     <a href="https://github.com/Junior580">
     <img height="220em"
         src="https://github-readme-stats.vercel.app/api?username=Junior580&show_icons=true&theme=dracula" />
     <img height="220em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=junior580&theme=tokyonight" />
-</div>
+</div> -->
+
             
 <h2>Tecnologias que uso no meu dia</h2>
 
