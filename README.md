@@ -1,7 +1,7 @@
 <h2>🛠️ Languages and Tools</h2>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,flutter,react,nestjs,docker,postgres,firebase,heroku,git,neovim" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=linux,flutter,react,nestjs,docker,postgres,firebase,heroku,git,github,neovim" alt="My Skills" />
   </a>
 </p>
 
@@ -12,4 +12,15 @@
         src="https://github-readme-stats.vercel.app/api?username=Junior580&show_icons=true&theme=tokyonight" />
     <img height="220em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=junior580&theme=tokyonight" />
+</div>
+
+<h2>📩 Contact me</h2>
+
+<div align="center"> 
+  <a href="mailto:junior.msm25@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/junior-pereira-56688214a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
 </div>
