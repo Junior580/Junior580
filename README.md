@@ -59,6 +59,7 @@
     style="max-width: 100%"
   />
 </div>
+  <br />
 
  <div>
     <a href="https://github.com/Junior580">
