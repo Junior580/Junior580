@@ -10,7 +10,7 @@
 </div> -->
 
             
-<h2>Tecnologias que uso no meu dia</h2>
+<h2>Languages and Tools</h2>
 
 <div style="display: inline-flex; background-color: white">
         <br />
