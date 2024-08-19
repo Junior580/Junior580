@@ -1,4 +1,4 @@
-<h2>🛠️ Languages and Tools</h2>
+<h2>🛠️ Languages, Frameworks and Tools</h2>
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,flutter,react,nestjs,docker,postgres,firebase,heroku,git,github,neovim" alt="My Skills" />
