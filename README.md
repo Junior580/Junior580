@@ -1,7 +1,7 @@
 <h2>🛠️ Languages, Frameworks and Tools</h2>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,flutter,react,nestjs,docker,postgres,firebase,heroku,git,github,neovim&theme=light" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=arch,flutter,react,nestjs,docker,postgres,git,neovim&theme=light" alt="My Skills" />
   </a>
 </p>
 
