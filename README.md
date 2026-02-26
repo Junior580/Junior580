@@ -6,23 +6,33 @@
 </p>
 
 <h2 align="center">⚡ Stats</h2>
-<div align="center">
-  <!-- Card horizontal -->
-  <img 
-    src="https://gitmystat.vercel.app/recent?theme=tokyonight&username=junior580"
-    width="75%"
-  />
-  <br><br>
-  <!-- Dois cards lado a lado -->
-  <img 
-    src="https://gitmystat.vercel.app/user?theme=tokyonight&username=junior580"
-    width="38%"
-  />
-  <img 
-    src="https://gitmystat.vercel.app/top?theme=tokyonight&username=junior580&layout=default"
-    width="38%"
-  />
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img 
+        src="https://gitmystat.vercel.app/recent?theme=tokyonight&username=junior580"
+        width="100%"
+      />
+      <br><br>
+    </td>
+
+    <td align="center" width="33%">
+      <img 
+        src="https://gitmystat.vercel.app/user?theme=tokyonight&username=junior580"
+        width="100%"
+      />
+    </td>
+
+    <td align="center" width="33%">
+      <img 
+        src="https://gitmystat.vercel.app/top?theme=tokyonight&username=junior580&layout=default"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
+
+
 
 <h2>📩 Contact me</h2>
 <div> 
