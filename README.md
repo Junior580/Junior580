@@ -8,8 +8,8 @@
 <h2>Stats</h2>
 <div style="display: inline-flex; background-color: white"> 
   <a href="https://github.com/Junior580">
-  <img height="220em" src="https://gitmystat.vercel.app/user?username=Junior580" />
-  <img height="220em" src="https://gitmystat.vercel.app/top?username=Junior580&layout=bar" />
+  <img height="220em" src="https://gitmystat.vercel.app/user?theme=tokyonight&username=junior580" />
+  <img height="220em" src="https://gitmystat.vercel.app/top?theme=tokyonight&username=junior580&layout=default" />
   <!-- <img height="220em" src="https://github-readme-stats.vercel.app/api?username=Junior580&show_icons=true&theme=tokyonight" /> -->
   <!-- <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junior580&theme=tokyonight" />  -->
 </div>
