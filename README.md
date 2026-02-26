@@ -5,14 +5,14 @@
   </a>
 </p>
 
-<h2>⚡ Stats</h2>
-<div style="display: inline-flex; background-color: white">
-    <a href="https://github.com/Junior580">
-    <img height="220em"
-        src="https://github-readme-stats.vercel.app/api?username=Junior580&show_icons=true&theme=tokyonight" />
-    <img height="220em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=junior580&theme=tokyonight" />
-</div>
+<h2 align="center">⚡ Stats</h2>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Junior580&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junior580&layout=compact&theme=tokyonight"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Junior580&theme=tokyonight"/>
+</p>
 
 <h2>📩 Contact me</h2>
 
