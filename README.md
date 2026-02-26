@@ -6,16 +6,20 @@
 </p>
 
 <h2 align="center">⚡ Stats</h2>
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Junior580&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junior580&layout=compact&theme=tokyonight"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Junior580&theme=tokyonight"/>
-</p>
+<a align="center">
+  <img 
+    height="180em"
+    src="https://github-readme-stats.zcy.dev/api?username=Junior580&show_icons=true&theme=tokyonight" 
+    alt="Junior580 GitHub Stats" 
+  />
+  <img 
+    height="180em"
+    src="https://github-readme-stats.zcy.dev/api/top-langs/?username=Junior580&layout=compact&theme=tokyonight" 
+    alt="Junior580 Top Languages" 
+  />
+</a>
 
 <h2>📩 Contact me</h2>
-
 <div> 
   <a href="mailto:junior.msm25@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
