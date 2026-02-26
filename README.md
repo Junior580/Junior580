@@ -5,19 +5,12 @@
   </a>
 </p>
 
-<h2 align="center">⚡ Stats</h2>
-<a align="center">
-  <img 
-    height="180em"
-    src="https://github-readme-stats.zcy.dev/api?username=Junior580&show_icons=true&theme=tokyonight" 
-    alt="Junior580 GitHub Stats" 
-  />
-  <img 
-    height="180em"
-    src="https://github-readme-stats.zcy.dev/api/top-langs/?username=Junior580&layout=compact&theme=tokyonight" 
-    alt="Junior580 Top Languages" 
-  />
-</a>
+<h2>Stats</h2>
+<div style="display: inline-flex; background-color: white"> 
+  <a href="https://github.com/Junior580">
+  <img height="220em" src="https://github-readme-stats.zcy.dev/api?username=Junior580&show_icons=true&theme=tokyonight" />
+  <!-- <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junior580&theme=tokyonight" />  -->
+</div>
 
 <h2>📩 Contact me</h2>
 <div> 
