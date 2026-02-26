@@ -5,15 +5,30 @@
   </a>
 </p>
 
-<h2>Stats</h2>
-<div style="display: inline-flex; background-color: white"> 
-  <a href="https://github.com/Junior580">
-  <img height="10em" src="https://gitmystat.vercel.app/recent?theme=tokyonight&username=junior580" />
-  <img height="220em" src="https://gitmystat.vercel.app/user?theme=tokyonight&username=junior580" />
-  <img height="220em" src="https://gitmystat.vercel.app/top?theme=tokyonight&username=junior580&layout=default" />
-  <!-- <img height="220em" src="https://github-readme-stats.vercel.app/api?username=Junior580&show_icons=true&theme=tokyonight" /> -->
-  <!-- <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junior580&theme=tokyonight" />  -->
+<h2 align="center">⚡ Stats</h2>
+<div align="center">
+  <img 
+    src="https://gitmystat.vercel.app/recent?theme=tokyonight&username=junior580"
+    alt="Recent Activity"
+    width="70%"
+  />
 </div>
+
+<!-- Cards verticais -->
+<div align="center">
+  <img 
+    height="200em"
+    src="https://gitmystat.vercel.app/user?theme=tokyonight&username=junior580"
+    alt="User Stats"
+  />
+  
+  <img 
+    height="200em"
+    src="https://gitmystat.vercel.app/top?theme=tokyonight&username=junior580&layout=default"
+    alt="Top Languages"
+  />
+</div>
+
 
 <h2>📩 Contact me</h2>
 <div> 
