@@ -7,28 +7,22 @@
 
 <h2 align="center">⚡ Stats</h2>
 <div align="center">
+  <!-- Card horizontal -->
   <img 
     src="https://gitmystat.vercel.app/recent?theme=tokyonight&username=junior580"
-    alt="Recent Activity"
-    width="70%"
+    width="75%"
   />
-</div>
-
-<!-- Cards verticais -->
-<div align="center">
+  <br><br>
+  <!-- Dois cards lado a lado -->
   <img 
-    height="200em"
     src="https://gitmystat.vercel.app/user?theme=tokyonight&username=junior580"
-    alt="User Stats"
+    width="38%"
   />
-  
   <img 
-    height="200em"
     src="https://gitmystat.vercel.app/top?theme=tokyonight&username=junior580&layout=default"
-    alt="Top Languages"
+    width="38%"
   />
 </div>
-
 
 <h2>📩 Contact me</h2>
 <div> 
