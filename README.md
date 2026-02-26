@@ -5,34 +5,20 @@
   </a>
 </p>
 
-<h2 align="center">⚡ Stats</h2>
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <img 
-        src="https://gitmystat.vercel.app/recent?theme=tokyonight&username=junior580"
-        width="100%"
-      />
-      <br><br>
-    </td>
-
-    <td align="center" width="33%">
-      <img 
-        src="https://gitmystat.vercel.app/user?theme=tokyonight&username=junior580"
-        width="100%"
-      />
-    </td>
-
-    <td align="center" width="33%">
-      <img 
-        src="https://gitmystat.vercel.app/top?theme=tokyonight&username=junior580&layout=default"
-        width="100%"
-      />
-    </td>
-  </tr>
-</table>
-
-
+<h2>Stats</h2>
+<div style="display: inline-flex; background-color: white">
+  <a href="https://github.com/Junior580" />
+  <img
+    height="220em"
+    src="https://gitmystat.vercel.app/user?theme=tokyonight&username=junior580"
+  />
+  <img
+    height="220em"
+    src="https://gitmystat.vercel.app/top?theme=tokyonight&username=junior580&layout=default"
+  />
+  <!-- <img height="220em" src="https://github-readme-stats.vercel.app/api?username=Junior580&show_icons=true&theme=tokyonight" /> -->
+  <!-- <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junior580&theme=tokyonight" />  -->
+</div>
 
 <h2>📩 Contact me</h2>
 <div> 
