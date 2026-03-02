@@ -11,7 +11,7 @@
     <!--  -->
    <img
     height="220em"
-    src="https://nirzak-streak-stats.vercel.app/?user=junior580&theme=dracula&hide_border=false"
+    src="https://nirzak-streak-stats.vercel.app/?user=junior580&theme=dracula&hide_border=true"
   />
   <!-- <img
     height="220em"
