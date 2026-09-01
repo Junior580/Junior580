@@ -16,7 +16,7 @@
     height="220em"
     src="https://gitmystat.vercel.app/top?theme=tokyonight&username=junior580&layout=default"
     /> -->
-  <img height="220em" src="https://github-readme-stats-eta-orcin-22.vercel.app/api?username=Junior580&show_icons=true&theme=tokyonight&show=prs_merged_percentage&hide=stars,issues,contribs" /> 
+  <img height="220em" src="https://github-readme-stats-eta-orcin-22.vercel.app/api?username=Junior580&show_icons=true&theme=tokyonight&show=prs_merged_percentage&hide=stars" /> 
   <img height="220em" src="https://github-readme-stats-eta-orcin-22.vercel.app/api/top-langs/?username=junior580&theme=tokyonight" />
 </div>
 
